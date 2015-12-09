@@ -91,6 +91,7 @@
     <TypeScriptCompile Include="delegates\ClassB.ts" />
     <TypeScriptCompile Include="delegates\Foo1.ts" />
     <TypeScriptCompile Include="delegates\Foo2.ts" />
+    <TypeScriptCompile Include="Scripts\auto.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
   </ItemGroup>
   <PropertyGroup>
