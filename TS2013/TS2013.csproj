@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-2.1.4.intellisense.js" />
+    <Content Include="auto.html" />
     <Content Include="calculator.html" />
     <Content Include="delegate.html" />
     <Content Include="delegates\delegates.html" />
